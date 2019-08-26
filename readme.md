@@ -1,6 +1,8 @@
-# This is a large heading
+# Very large heading
 
-## This is a smaller heading
+## Much headings
+
+### So scholarly
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet’s pen,
