@@ -1,0 +1,1 @@
+Moj prvi git brlog.
